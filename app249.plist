@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jiazi.software</string>
+				<string>com.jiazi.warship</string>
 				<key>bundle-version</key>
 				<string>1.0.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>warship</string>
+				<string>software</string>
 			</dict>
 		</dict>
 	</array>
