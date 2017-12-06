@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-                    <string>http://192.168.10.248/Unity-iPhone.ipa</string>
+					<string>http://192.168.10.248/Unity-iPhone.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Unity-IPhone.ipa</string>
+				<string>warship</string>
 			</dict>
 		</dict>
 	</array>
