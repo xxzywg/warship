@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jiazi.warship</string>
+				<string>com.jiazi.software</string>
 				<key>bundle-version</key>
 				<string>1.0.2.0</string>
 				<key>kind</key>
